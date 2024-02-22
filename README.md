@@ -21,13 +21,13 @@ The application implements routing to allow seamless navigation between componen
 
 ## Screenshots
 
-![Screenshot 1](./src/screenshots/Screenshot%20(132).png)
-![Screenshot 2](./src/screenshots/Screenshot%20(133).png)
-![Screenshot 3](./src/screenshots/Screenshot%20(134).png)
-![Screenshot 4](./src/screenshots/Screenshot%20(135).png)
-![Screenshot 4](./src/screenshots/Screenshot%20(136).png)
-![Screenshot 4](./src/screenshots/Screenshot%20(137).png)
-*Caption: Describe what's shown in the screenshot.*
+![Screenshot 1](./src/screenshots/one.png)
+![Screenshot 2](./src/screenshots/two.png)
+![Screenshot 3](./src/screenshots/three.png)
+![Screenshot 4](./src/screenshots/four.png)
+![Screenshot 4](./src/screenshots/five.png)
+![Screenshot 4](./src/screenshots/six.png)   
+*Caption: Describe what's shown in the .*
 
 ## Demo
 
