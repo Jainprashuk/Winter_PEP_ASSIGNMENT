@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# React App with Routing and Components
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Assignment Overview
 
-## Available Scripts
+This project was created as part of the assignment titled "React App with Routing and Components." The objective was to build a React application with three components (Home, Navbar, and FormAction) and implement routing to navigate between these components. Additionally, a FormAction component was designed to gather user input.
 
-In the project directory, you can run:
+## Components
 
-### `npm start`
+### 1. Home
+The Home component is responsible for displaying user details, including name, age, email, and address.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 2. Navbar
+The Navbar component serves as the navigation bar for the application.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 3. FormAction
+FormAction is a component that includes a form to collect user input. It features input fields for Name, Age, Address, and EmailID.
 
-### `npm test`
+## Navigation and Routing
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The application implements routing to allow seamless navigation between components. Routes are defined to render the Home and FormAction components based on user navigation.
 
-### `npm run build`
+## Screenshots
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screenshot 1](./src/screenshots/Screenshot%20(132).png)
+![Screenshot 2](./src/screenshots/Screenshot%20(133).png)
+![Screenshot 3](./src/screenshots/Screenshot%20(134).png)
+![Screenshot 4](./src/screenshots/Screenshot%20(135).png)
+![Screenshot 4](./src/screenshots/Screenshot%20(136).png)
+![Screenshot 4](./src/screenshots/Screenshot%20(137).png)
+*Caption: Describe what's shown in the screenshot.*
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Demo
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Include screenshots or a video demonstrating the functionality of the application. Showcase the navigation between components and the input form in the FormAction component.
 
-### `npm run eject`
+## Code Structure
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Briefly explain the structure of your codebase. Highlight any key files or directories and their functionalities.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Challenges Faced
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Provide a brief overview of any challenges faced during the implementation of the assignment. This could include technical hurdles, design decisions, or any other noteworthy aspects of the development process.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Submission
 
-## Learn More
+The React application codebase, along with necessary dependencies, is included in this repository. Screenshots and a demo video are also provided to showcase the application's functionality.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to explore the code and provide feedback or suggestions. Thank you for checking out this project!
