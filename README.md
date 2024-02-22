@@ -26,8 +26,7 @@ The application implements routing to allow seamless navigation between componen
 ![Screenshot 3](./src/screenshots/three.png)
 ![Screenshot 4](./src/screenshots/four.png)
 ![Screenshot 4](./src/screenshots/five.png)
-![Screenshot 4](./src/screenshots/six.png)
-*Caption: Describe what's shown in the screenshot.*
+
 
 ## Demo
 
