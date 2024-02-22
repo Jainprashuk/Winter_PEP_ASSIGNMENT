@@ -13,7 +13,7 @@ const NavBar = (props) =>{
     return (
         <>
         {token &&
-        <nav className='navbar'>
+        <nav className='navbar '>
         <div className='navbar-item'>
             <Link to="/home">Home</Link>
         </div>
